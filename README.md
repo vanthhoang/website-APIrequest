@@ -1,5 +1,12 @@
 # website-APIrequest
 
+
+GETTING STARTED: 
+ 1. npm install
+ 2. npm run start 
+ -> The localhost:8080 browser should open up. If not, go to localhost:8080/
+ 
+
 Some requirements for creating this website: 
 
 1. Need to get an API key. The website is hiting a food API called http://food2folk.com/. The free subscription allows 50 hits/day.
