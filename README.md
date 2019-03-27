@@ -13,3 +13,4 @@ Here is the step to creating your own proxy server:
 5. git push heroku master 
 -> The result should be something like this: https://damp-brook-63821.herokuapp.com/ | https://git.heroku.com/damp-brook-6382
 
+The development and modification of this website were learned from a tutorial on Udemy called "The Complete JavaScript Course 2019: Build Real Projects!"
